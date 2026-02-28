@@ -1,0 +1,1 @@
+Reduces damage taken by players up to half against melee or two thirds for ranged and magic for 400 points.

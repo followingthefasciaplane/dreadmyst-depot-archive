@@ -1,0 +1,1 @@
+Represents how often you can perform a melee attack.
